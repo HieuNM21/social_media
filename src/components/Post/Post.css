@@ -30,8 +30,8 @@
   padding: 10px;
 }
 
-.post__actions-left svg,
-.post__actions-right svg {
+.post__actions-left i,
+.post__actions-right i {
   margin-right: 10px;
   font-size: 20px;
   cursor: pointer;

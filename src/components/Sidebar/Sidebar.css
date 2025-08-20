@@ -19,11 +19,9 @@
   font-size: 18px;
   padding: 8px 0;
   cursor: pointer;
-  color: #fff;
-  text-decoration: none;
 }
 
-.sidebar__nav-item svg {
+.sidebar__nav-item i {
   margin-right: 12px;
   font-size: 20px;
 }
